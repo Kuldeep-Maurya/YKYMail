@@ -1,0 +1,14 @@
+input{color:black;border-radius:10px;font-weight:bold;font-size:13px;width:250px;height:20px;font-family:"Lucida Calligraphy"}
+textarea{color:black;border-radius:10px;font-weight:bold;font-size:13px;width:250px;height:60px;font-family:"Lucida Calligraphy"}
+h1{color:#330066;}
+input:hover{background:#ffffff}
+input[type=submit]:hover{color:#ffffff; background:#1a1aff}
+input[type=reset]:hover{color:#ffffff; background:#dd4466}
+textarea:hover{background:#ffffff}
+input[type=submit]{width:120px;height:30px;background:#44ddbb}
+input[type=reset]{width:100px;height:30px;background:#b3dd44}
+@font-face
+{
+	font-family : LoveloBlackBold;
+	src : url('C:/xampp/htdocs/YKYMail/LoveloBlackBold.otf');
+}
